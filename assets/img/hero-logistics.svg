@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 620" role="img">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#dceefa"/><stop offset="1" stop-color="#f5f9fc"/></linearGradient>
+    <linearGradient id="sea" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#77b8df"/><stop offset="1" stop-color="#377fae"/></linearGradient>
+    <linearGradient id="truck" x1="0" x2="1"><stop stop-color="#1f78c1"/><stop offset="1" stop-color="#145c94"/></linearGradient>
+  </defs>
+  <rect width="720" height="620" fill="url(#sky)"/>
+  <circle cx="550" cy="112" r="48" fill="#f2a900" opacity=".82"/>
+  <path d="M0 267 112 222l117 43 130-87 120 71 99-60 142 56v157H0z" fill="#bfd6e1"/>
+  <path d="M0 344h720v276H0z" fill="url(#sea)"/>
+  <path d="M0 402q118-20 233 0t233 0 254 0" fill="none" stroke="#c7e9f5" stroke-width="5" opacity=".8"/>
+  <path d="M0 471q118-20 233 0t233 0 254 0" fill="none" stroke="#c7e9f5" stroke-width="4" opacity=".65"/>
+  <path d="M520 229V90h17v139m-26-132h104v14H511m29 8h64v72h-64z" fill="#0f2a43"/>
+  <path d="M550 116h29v22h-29zm0 33h29v22h-29zm0 33h29v22h-29z" fill="#f2a900"/>
+  <path d="M75 300h324v21H75zM93 321h19v79H93zm269 0h19v79h-19z" fill="#2b5470"/>
+  <path d="M113 241h80v59h-80z" fill="#f2a900"/><path d="M201 241h80v59h-80z" fill="#1f78c1"/><path d="M289 241h80v59h-80z" fill="#0f2a43"/>
+  <path d="M113 250h80v8h-80zm88 0h80v8h-80zm88 0h80v8h-80z" fill="#fff" opacity=".25"/>
+  <path d="M82 447h361v102H82z" fill="url(#truck)"/>
+  <path d="M443 477h94l57 49v23H443z" fill="#174e75"/>
+  <path d="M470 489h52l33 28h-85z" fill="#bde1f0"/>
+  <path d="M108 466h283v15H108z" fill="#f2a900"/>
+  <path d="M102 548h488v20H102z" fill="#0f2a43"/>
+  <circle cx="160" cy="553" r="31" fill="#152a39"/><circle cx="160" cy="553" r="13" fill="#d5e2e9"/>
+  <circle cx="495" cy="553" r="31" fill="#152a39"/><circle cx="495" cy="553" r="13" fill="#d5e2e9"/>
+  <path d="M0 590q110-20 220 0t220 0 280 0v30H0z" fill="#d9e9ef" opacity=".7"/>
+  <path d="M115 606h410" stroke="#fff" stroke-width="3" stroke-dasharray="14 14" opacity=".65"/>
+</svg>
